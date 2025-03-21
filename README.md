@@ -1,2 +1,2 @@
-# university
-university lab assignments
+# University
+This repository contains my university lab assignments.
